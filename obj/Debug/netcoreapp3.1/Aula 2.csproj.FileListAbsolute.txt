@@ -1,0 +1,17 @@
+C:\Users\rlago\Documents\Aula 2\obj\Debug\netcoreapp3.1\Aula 2.csprojAssemblyReference.cache
+C:\Users\rlago\Documents\Aula 2\obj\Debug\netcoreapp3.1\Aula 2.AssemblyInfoInputs.cache
+C:\Users\rlago\Documents\Aula 2\obj\Debug\netcoreapp3.1\Aula 2.AssemblyInfo.cs
+C:\Users\rlago\Documents\Aula 2\obj\Debug\netcoreapp3.1\Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\rlago\Documents\Aula2\bin\Debug\netcoreapp3.1\Aula 2.exe
+C:\Users\rlago\Documents\Aula2\bin\Debug\netcoreapp3.1\Aula 2.deps.json
+C:\Users\rlago\Documents\Aula2\bin\Debug\netcoreapp3.1\Aula 2.runtimeconfig.json
+C:\Users\rlago\Documents\Aula2\bin\Debug\netcoreapp3.1\Aula 2.runtimeconfig.dev.json
+C:\Users\rlago\Documents\Aula2\bin\Debug\netcoreapp3.1\Aula 2.dll
+C:\Users\rlago\Documents\Aula2\bin\Debug\netcoreapp3.1\Aula 2.pdb
+C:\Users\rlago\Documents\Aula2\obj\Debug\netcoreapp3.1\Aula 2.csprojAssemblyReference.cache
+C:\Users\rlago\Documents\Aula2\obj\Debug\netcoreapp3.1\Aula 2.AssemblyInfoInputs.cache
+C:\Users\rlago\Documents\Aula2\obj\Debug\netcoreapp3.1\Aula 2.AssemblyInfo.cs
+C:\Users\rlago\Documents\Aula2\obj\Debug\netcoreapp3.1\Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\rlago\Documents\Aula2\obj\Debug\netcoreapp3.1\Aula 2.dll
+C:\Users\rlago\Documents\Aula2\obj\Debug\netcoreapp3.1\Aula 2.pdb
+C:\Users\rlago\Documents\Aula2\obj\Debug\netcoreapp3.1\Aula 2.genruntimeconfig.cache

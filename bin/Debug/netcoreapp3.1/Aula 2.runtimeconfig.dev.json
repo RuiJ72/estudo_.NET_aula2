@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rlago\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rlago\\.nuget\\packages"
+    ]
+  }
+}
