@@ -15,6 +15,7 @@ namespace Aula2
            Console.WriteLine(s.Desempilha());
            Console.WriteLine(s.Desempilha());
            Console.WriteLine(s.Desempilha());
+           Console.WriteLine(s.Desempilha()); // Provocando uma excepção
         }
     }
 }

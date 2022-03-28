@@ -28,7 +28,7 @@ namespace Aula2
         {
             if (primeiro == null) 
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("A pilha está vazia"); // Implementando a ocorrência de um problema. Estamos agora passanso uma string
             }
 
             object resultado = primeiro.item;
