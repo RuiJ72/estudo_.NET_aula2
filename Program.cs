@@ -15,7 +15,8 @@ namespace Aula2
            Console.WriteLine(s.Desempilha());
            Console.WriteLine(s.Desempilha());
            Console.WriteLine(s.Desempilha());
-           Console.WriteLine(s.Desempilha()); // Provocando uma excepção
+           Console.WriteLine(s.Desempilha()); // Provocando uma excepção pois este espaço não existe na pilha
+           
         }
     }
 }
